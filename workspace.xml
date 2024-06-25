@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6735e476-e840-43c6-8541-9dca3ba8e412" name="Changes" comment="First commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ProjectTest/src/test/java/swag/lab/test/fun/LogInPageFun.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ProjectTest/src/test/java/swag/lab/test/fun/PLPFun.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ProjectTest/src/test/java/swag/lab/test/shoping_bag/ShoppingBagTest.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2i5aSXzaG2Gd6z1dcDcqjF1ODC0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.PLPFun.executor": "Coverage",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Maven.ProjectTest [clean,install].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.ShoppingBagTest.executor": "Run",
+    "TestNG.ShoppingBagTest.shoppingBagTest.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Lenovo/Desktop/Zavrsni projekat/Tatjana",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.ShoppingBagTest">
+    <configuration name="PLPFun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swag.lab.test.fun.PLPFun" />
+      <module name="ProjectTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swag.lab.test.fun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingBagTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProjectTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swag.lab.test.shoping_bag.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="swag.lab.test.shoping_bag" />
+      <option name="MAIN_CLASS_NAME" value="swag.lab.test.shoping_bag.ShoppingBagTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingBagTest.shoppingBagTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProjectTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swag.lab.test.shoping_bag.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="swag.lab.test.shoping_bag" />
+      <option name="MAIN_CLASS_NAME" value="swag.lab.test.shoping_bag.ShoppingBagTest" />
+      <option name="METHOD_NAME" value="shoppingBagTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ShoppingBagTest" />
+        <item itemvalue="Application.PLPFun" />
+        <item itemvalue="TestNG.ShoppingBagTest.shoppingBagTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6735e476-e840-43c6-8541-9dca3ba8e412" name="Changes" comment="" />
+      <created>1718782891752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718782891752</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1719298886539</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719298886539</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Mihajlo$PLPFun.ic" NAME="PLPFun Coverage Results" MODIFIED="1719269396427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>swag.lab.test.fun.*</FILTER>
+    </SUITE>
+  </component>
+</project>
